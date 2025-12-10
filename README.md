@@ -24,5 +24,4 @@ Atualmente estudando arquitetura de software, containerização e boas práticas
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/uerles-santos-099337313/)](SEU_LINK_DO_LINKEDIN_AQUI)
