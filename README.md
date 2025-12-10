@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**u-santos1/u-santos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...### Olá, eu sou o Wesley! 👋
+### Olá 👋
 
 Sou um desenvolvedor Backend em formação, focado no ecossistema **Java** e **Spring**.
 Atualmente estudando arquitetura de software, containerização e boas práticas de engenharia.
@@ -37,7 +26,3 @@ Atualmente estudando arquitetura de software, containerização e boas práticas
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
