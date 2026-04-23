@@ -24,7 +24,7 @@ Mercado Pago e autenticação JWT.
 | Projeto | Descrição | Status |
 |---|---|---|
 | [💈 Barber Pro API](https://github.com/u-santos1/barbearia-backend) | SaaS para gestão de barbearias com agendamento, Mercado Pago e JWT | 🟢 Em produção |
-| [👥 API Gestão de Pessoas](https://github.com/u-santos1/api-gestao-pessoas) | API RESTful com Clean Code e containerização Docker | 🔵 Portfólio |
+
 
 ---
 
