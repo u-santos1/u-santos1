@@ -23,7 +23,7 @@ Mercado Pago e autenticação JWT.
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [💈 Sas Barbearia](https://github.com/u-santos1/sas_barbearia) | SaaS para gestão de barbearias com agendamento, Mercado Pago e JWT | 🟢 Em produção |
+| [💈 Barbearia_backend](https://github.com/u-santos1/barbearia-backend) | SaaS para gestão de barbearias com agendamento, Mercado Pago e JWT | 🟢 Em produção |
 
 
 ---
