@@ -30,9 +30,6 @@ Mercado Pago e autenticação JWT.
 
 ## 📚 Estudando agora
 
-- Arquitetura de microsserviços
-- Testes automatizados com JUnit 5 e Mockito
-- SQL avançado
 
 ---
 
