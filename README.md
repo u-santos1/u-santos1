@@ -24,7 +24,7 @@ Mercado Pago e autenticação JWT.
 | Projeto | Descrição | Status |
 |---|---|---|
 | [💈 Barbearia_Kliper]) | SaaS para gestão de barbearias com agendamento, Mercado Pago e JWT | 🟢 Em produção |
-LINK:barbearia-frontend-rose.vercel.app
+LINK:[barbearia-frontend-rose.vercel.app](https://kliper.app.br)
 
 ---
 
