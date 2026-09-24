@@ -1,9 +1,6 @@
 # Olá 👋
 
-Desenvolvedor Backend Java focado em Spring Boot e boas práticas
-de engenharia. Tenho um SaaS de barbearia rodando em produção —
-construído do zero com agendamento inteligente, integração com
-Mercado Pago e autenticação JWT.
+Desenvolvedor Backend Java focado em Spring Boot e boas práticas de engenharia. Construo sistemas com foco em concorrência, integridade de dados e arquitetura escalável — do agendamento inteligente de um SaaS em produção ao núcleo de uma carteira digital.
 
 ---
 
@@ -23,13 +20,12 @@ Mercado Pago e autenticação JWT.
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [💈 Barbearia_Kliper]) | SaaS para gestão de barbearias com agendamento, Mercado Pago e JWT | 🟢 Em produção |
-LINK:[barbearia-frontend-rose.vercel.app](https://kliper.app.br)
+| [💳 VaultPay API](https://github.com/u-santos1/vaultpay-backend) | Núcleo de carteira digital com Java 21 (Virtual Threads), pessimistic locking, idempotência e ledger imutável | 🟢 Em desenvolvimento |
+| [💈 Barbearia\_Kliper](https://github.com/u-santos1/barbearia-backend) | Construí um SaaS — com multi-tenancy, motor de assinatura e bloqueio por inadimplência — como projeto pessoal, sem foco comercial até agora. — [ver demo](https://kliper.app.br) | 🟢 Em produção |
 
 ---
 
 ## 📚 Estudando agora
-
 
 ---
 
