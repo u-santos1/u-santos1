@@ -25,7 +25,13 @@ Desenvolvedor Backend Java focado em Spring Boot e boas práticas de engenharia.
 
 ---
 
-## 📚 Estudando agora
+### 🔭 Estudando e Praticando Agora:
+- ☕ **Java 21 & Spring Boot 3:** Concorrência, Multithreading e controle transacional com Locks (Otimista e Pessimista).
+- 🧪 **Testes Automatizados & Resiliência:** Testes Unitários robustos com JUnit 5 & Mockito, e testes de concorrência com `CountDownLatch`.
+- 🤖 **Spring AI & Agentes Autônomos:** Integração de Modelos de Linguagem (LLMs) nativos em Java com *Function Calling* e automação de serviços.
+- 🐘 **PostgreSQL & Performance JPA:** Otimização de consultas, eliminação do problema N+1 (`JOIN FETCH`) e migrações com Flyway.
+- 🛡️ **Segurança & Arquitetura:** Spring Security 6 Stateless (JWT), RBAC e APIs RESTful seguindo a RFC 7807.
+
 
 ---
 
